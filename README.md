@@ -75,11 +75,11 @@ An Apache Thrift-based electronic-signature service that exposes PKCS#11 modules
 
 ## Blog
 
-I publish technical notes, implementation experiences, and research-oriented articles on [omeryildiz.org](https://omeryildiz.org).
+On [omeryildiz.org](https://omeryildiz.org), I write about a broad range of topics including software and technology, practical problem-solving, books, travel, art, and personal interests.
 
-Topics primarily include cryptography, hardware security modules, PKCS#11, Java Card, NFC, embedded Linux, C/C++, secure software development, and engineering problem-solving.
+The blog brings together technical notes, solutions to problems I encounter, observations from places I visit, reflections on books and art, and other subjects I find useful or worth sharing.
 
-[![Read the Blog](https://img.shields.io/badge/Read_the_Blog-omeryildiz.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://omeryildiz.org)
+[![Visit omeryildiz.org](https://img.shields.io/badge/Visit_the_Blog-omeryildiz.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://omeryildiz.org)
 
 ## Research and Publications
 
